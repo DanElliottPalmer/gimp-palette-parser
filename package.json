@@ -1,0 +1,14 @@
+{
+  "name": "gimp-palette-parser",
+  "version": "1.0.0",
+  "description": "Parses .gpl files",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava tests/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
+}
