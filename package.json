@@ -1,6 +1,6 @@
 {
   "name": "gimp-palette-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses .gpl files",
   "main": "lib/index.js",
   "scripts": {
