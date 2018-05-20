@@ -10,5 +10,10 @@
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.18.2"
-  }
+  },
+  "homepage": "https://github.com/DanElliottPalmer/gimp-palette-parser",
+  "bugs": {
+    "url": "https://github.com/DanElliottPalmer/gimp-palette-parser/issues"
+  },
+  "repository": "github:DanElliottPalmer/gimp-palette-parser"
 }
